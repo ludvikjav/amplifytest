@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "RestaurantAPI",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "D:\\ProyectoAmplify\\amplify-app\\amplify\\backend\\api\\RestaurantAPI\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 365,
+      "apiKeyExpirationDate": "2023-02-25T06:41:48.282Z",
+      "keyDescription": "demo"
+    }
+  }
+}
